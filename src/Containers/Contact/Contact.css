@@ -1,0 +1,13 @@
+.container-contact {
+    max-width: 700px;
+    margin: 100px auto 0;
+    font-size: 25px;
+    padding: 15px;
+}
+.container-contact h1 {
+    font-size: 50px;
+    margin-top: 10px;
+}
+.container-contact p:nth-child(4){ /* pour modifier le 4 ieme paragraphe */
+    margin-top: 50px;
+}
