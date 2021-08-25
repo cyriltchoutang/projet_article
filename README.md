@@ -1,1 +1,1 @@
-Front ReactJS permettant la modification des articles
+Front ReactJS permettant la CRUD des articles
